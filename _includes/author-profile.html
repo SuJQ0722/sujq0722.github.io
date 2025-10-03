@@ -9,8 +9,9 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <h3 class="author__name">{{ author.name | default: site.title }}</h3>
+    {% assign bio_text = author.bio | default: site.description %}
+    {% if bio_text %}<p class="author__bio">{{ bio_text }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
