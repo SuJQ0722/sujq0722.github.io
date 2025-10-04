@@ -24,38 +24,36 @@ I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. 
 ## Research interests
 My current research centers around the following domains:
 - Multimodal Agentic Reinforcement Learning
-- World Models for Embodied Agents
-- Multi-Agent System Design.
+- World Foundation Models
+- Multi-Agent System Design
 
 
 # 🔥 News
+- 2025.06 — Paper on synthetic data for autonomous driving accepted by ICCV 2025.
 - 2025.05 — Joined UIUC Ulab & OpenManus Team as a Research Intern (Urbana, IL).
-- 2025 — Paper on synthetic data for autonomous driving accepted by ICCV 2025.
 - 2024.05 — Joined SJTU CMIC as a Research Intern (Shanghai), advised by Prof. Siheng Chen.
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 (Under Review)</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which LLM Multi-Agent Protocol to Choose?](#)
 
-- Designed four scenarios and metrics to fairly compare A2A, ACP, ANP, and Agora.
-- Proposed a meta-protocol with an intelligent router for dynamic selection per scenario.
+- Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/MultiagentBench/Multiagent-Protocol?style=social&label=Code+Stars)](https://github.com/MultiagentBench/Multiagent-Protocol)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B (Under Review)</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems](#)
+[MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2505.16988), Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, **Jiaqi Su**, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, Zhenfei Yin, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai, Siheng Chen
 
-- Integrated 20+ methods with standardized benchmarks and evaluation protocols for reproducible research and fair comparison.
-- Led refactoring of multi-agent debate and ADAS repos; constructed math datasets.
+- Integrated 20+ methods with standardized benchmarks and evaluation protocols for reproducible research and fair comparison. [![](https://img.shields.io/github/stars/MASWorks/MASLab?style=social&label=Code+Stars)](https://github.com/MASWorks/MASLab)
 </div>
 </div>
 
-- [Synthetic Data Generation for Autonomous Driving](#), ICCV 2025
+- ``arXiv`` [Unraveling the effects of synthetic data on end-to-end autonomous driving](https://www.arxiv.org/abs/2503.18108), Junhao Ge, Zuhong Liu, Longteng Fan, Yifan Jiang, **Jiaqi Su**, Yiming Li, Zhejun Zhang, Siheng Chen. [![](https://img.shields.io/github/stars/cancaries/SceneCrafter?style=social&label=Code+Stars)](https://github.com/cancaries/SceneCrafter)
 
 # 🎖 Honors and Awards
 - 2025 — Challenge Cup (Training Optimization and Inference Acceleration for Reasoning LLMs): Second place nationwide. Collaborated with Prof. Erhu Feng and Prof. Muning Wen; developed GRPO/PPO training and deployment pipelines based on veRL; led inference optimization including speculative decoding and heterogeneous deployment across CPU and NPU.
@@ -64,7 +62,7 @@ My current research centers around the following domains:
 - 2022.09 — 2026.06 (expected), B.Eng. in Electric Power Engineering and Automation, Shanghai Jiao Tong University (SJTU), Shanghai, China.
 
 # 💻 Internships
-- 2025.05 — Present, UIUC Ulab & OpenManus Team, Research Intern, Urbana, IL. Advisor: Prof. Jiaxuan You. Focus: multi-agent protocols and GUI agent robustness.
+- 2025.05 — Present, UIUC Ulab & OpenManus Team, Research Intern, Urbana, IL. Advisor: Prof. Jiaxuan You. Focus: multi-agent protocols, GUI agent and embodied navigation.
 - 2024.05 — 2025.05, SJTU CMIC, Research Intern, Shanghai. Advisor: Prof. Siheng Chen. Focus: multi-agent system evaluation and coordination strategies.
 
 # 📝 Blogs
