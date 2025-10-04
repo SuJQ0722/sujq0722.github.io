@@ -108,27 +108,60 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+/* Inline badge variant: same look as .badge but without absolute positioning */
+.badge-inline {
+    display: inline-block;
+    padding: 0 0.4em;
+    color: #fff;
+    background-color: #00369f;
+    font-size: .8em;
+    line-height: 1;
+}
+
+/* Publications area: auto-badge for inline code using backticks */
+.pub-list code {
+    display: inline-block;
+    padding: 0 0.4em;
+    color: #fff;
+    background-color: #00369f;
+    font-size: .8em;
+    border-radius: 0;
+    font-family: inherit;
+    border: none;
+    box-shadow: none;
+    line-height: 1;
+}
+
 /* Blog cards */
 .blog-list { margin-top: 1rem; }
 .blog-cards {
     list-style: none;
     padding-left: 0;
+    margin: 0 auto;
+    max-width: 860px;
 }
-.blog-list, .blog-post { text-align: center; }
+.blog-list { text-align: center; }
+.blog-post {
+    max-width: 860px;
+    margin: 0 auto 2rem;
+    text-align: left;
+    padding: 0 1.5rem;
+}
 .blog-card {
     border: 1px solid #e6e6e6;
     border-radius: 14px;
-    margin: 12px 0;
+    margin: 12px auto;
     background: #fff;
     box-shadow: 0 1px 2px rgba(0,0,0,0.03);
     transition: box-shadow .2s ease;
+    width: 100%;
 }
 .blog-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
 .blog-card__link {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 14px 18px;
+    padding: 18px 22px;
     text-decoration: none;
 }
 .blog-card__link,
@@ -137,17 +170,25 @@ h1:before, .anchor:before {
 .blog-card__link:active { text-decoration: none !important; }
 .blog-card__link * { text-decoration: none !important; }
 .blog-card__content { flex: 1; }
+.blog-card__content { text-align: left; }
+.blog-card__date { color: #9aa0a6; font-size: 0.85rem; margin-bottom: 6px; text-align: left; }
 .blog-card__meta { color: #9aa0a6; font-size: 0.85rem; }
 .blog-card__title { font-weight: 700; font-size: 1.05rem; margin: 6px 0; }
 .blog-card__excerpt { color: #5f6368; }
-.blog-card__tags { margin-top: 8px; }
+.blog-card__footer { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 6px; }
+.blog-card__tags {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+}
 .tag-chip {
     display: inline-block;
-    font-size: 0.8rem;
+    font-size: 0.88rem;
     color: #3c4043;
     background: #f1f3f4;
     border-radius: 999px;
-    padding: 2px 8px;
-    margin-right: 6px;
+    padding: 4px 12px;
+    margin-right: 0;
 }
 .blog-card__arrow { color: #9aa0a6; font-size: 3rem; line-height: 1; margin-left: 12px; }

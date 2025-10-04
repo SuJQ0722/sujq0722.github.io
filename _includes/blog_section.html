@@ -1,0 +1,26 @@
+{% comment %}
+  Renders a Blogs section identical to the About page card layout.
+  Usage:
+  {% include blog_section.html title="Blogs" cta=true %}
+{% endcomment %}
+
+{% unless include.show_heading == false %}
+<h1>{{ include.title | default: 'Blogs' }}</h1>
+{% endunless %}
+
+{%- assign blog_pages = site.pages
+  | where_exp: 'p', "p.url contains '/blogs/'"
+  | where_exp: 'p', "p.path != 'blogs/index.md'"
+  | where_exp: 'p', 'p.title'
+  | sort: 'date'
+  | reverse
+-%}
+<ul class="blog-cards">
+  {%- for p in blog_pages -%}
+    {% include blog_card.html p=p %}
+  {%- endfor -%}
+</ul>
+
+{% if include.cta %}
+<p><a href="/blogs/">View all blogs →</a></p>
+{% endif %}

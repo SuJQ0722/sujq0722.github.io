@@ -121,11 +121,17 @@ kramdown:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: default
       author_profile: true
+  - scope:
+      path: "blogs"
+      type: pages
+    values:
+      layout: default
+      author_profile: false
 
 
 # Sass/SCSS

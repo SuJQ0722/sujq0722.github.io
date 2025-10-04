@@ -1,0 +1,21 @@
+{% assign p = include.p %}
+<li class="blog-card">
+  <a class="blog-card__link" href="{{ p.url }}">
+    <div class="blog-card__content">
+      {% if p.date %}<div class="blog-card__meta">{{ p.date | date: "%b %-d, %Y" }}</div>{% endif %}
+      <div class="blog-card__title">{{ p.title | default: p.name | default: p.url }}</div>
+      {% assign ex = p.excerpt | default: '' %}
+      {% if ex and ex != '' %}
+      <div class="blog-card__excerpt">{{ ex | strip_html | strip_newlines }}</div>
+      {% endif %}
+      {% if p.tags %}
+      <div class="blog-card__tags">
+        {% for t in p.tags %}
+          <span class="tag-chip">{{ t }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    <div class="blog-card__arrow">›</div>
+  </a>
+  </li>
