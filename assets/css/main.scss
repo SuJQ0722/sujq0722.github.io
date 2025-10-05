@@ -140,6 +140,12 @@ h1:before, .anchor:before {
     margin: 0 auto;
     max-width: 860px;
 }
+
+.blog-cards--left {
+    margin-left: 0 !important;
+    max-width: none !important;
+    padding-left: 0;
+}
 .blog-list { text-align: center; }
 .blog-post {
     max-width: 860px;

@@ -15,7 +15,7 @@
   | sort: 'date'
   | reverse
 -%}
-<ul class="blog-cards">
+<ul class="blog-cards{% if include.align == 'left' %} blog-cards--left{% endif %}">
   {%- for p in blog_pages -%}
     {% include blog_card.html p=p %}
   {%- endfor -%}

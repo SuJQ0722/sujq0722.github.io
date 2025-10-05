@@ -37,7 +37,7 @@ My current research centers around the following domains:
 
 <div class="pub-list" markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/protocolbench_figure.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Which LLM Multi-Agent Protocol to Choose?](#)
@@ -46,7 +46,7 @@ My current research centers around the following domains:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/maslab_figure.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2505.16988), Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, **Jiaqi Su**, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, Zhenfei Yin, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai, Siheng Chen
@@ -70,4 +70,4 @@ My current research centers around the following domains:
 - 2024.05 — 2025.05, SJTU CMIC, Research Intern, Shanghai. Advisor: Prof. Siheng Chen. Focus: multi-agent system evaluation and coordination strategies.
 
 # 📝 Blogs
-{% include blog_section.html show_heading=false cta=true %}
+{% include blog_section.html show_heading=false cta=true align='left' %}
