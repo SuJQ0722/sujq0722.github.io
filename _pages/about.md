@@ -70,4 +70,5 @@ My current research centers around the following domains:
 - 2024.05 — 2025.05, SJTU CMIC, Research Intern, Shanghai. Advisor: Prof. Siheng Chen. Focus: multi-agent system evaluation and coordination strategies.
 
 # 📝 Blogs
+*Just so you know, my posts are pretty much just my study notes. I'd love to hear your thoughts and discuss!*
 {% include blog_section.html show_heading=false cta=true align='left' %}
