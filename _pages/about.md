@@ -22,7 +22,7 @@ redirect_from:
 I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. in Electrical Engineering and Automation (expected Jun 2026). I'm now a research intern with the UIUC Ulab & OpenManus Team, advised by Prof. Jiaxuan You. My work focuses on multi-agent protocols, GUI agent, and agentic reinforcement learning.
 
 ## Language Proficiency
-- **English**: TOEFL 105 | CET-6 617
+- **English**: TOEFL 105 \| CET-6 617
 - **Chinese**: Native
 
 ## Research interests
