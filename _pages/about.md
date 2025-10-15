@@ -21,6 +21,10 @@ redirect_from:
 # 😎 About Me
 I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. in Electrical Engineering and Automation (expected Jun 2026). I'm now a research intern with the UIUC Ulab & OpenManus Team, advised by Prof. Jiaxuan You. My work focuses on multi-agent protocols, GUI agent, and agentic reinforcement learning.
 
+## Language Proficiency
+- **English**: TOEFL 105 | CET-6 617
+- **Chinese**: Native
+
 ## Research interests
 My current research centers around the following domains:
 - Multimodal Agentic Reinforcement Learning
@@ -40,7 +44,7 @@ My current research centers around the following domains:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/protocolbench_figure.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Which LLM Multi-Agent Protocol to Choose?](https://openreview.net/pdf?id=lqNqKUG2dn)
+[Which LLM Multi-Agent Protocol to Choose?](#)
 
 - Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/MultiagentBench/Multiagent-Protocol?style=social&label=Code+Stars)](https://github.com/MultiagentBench/Multiagent-Protocol)
 </div>
