@@ -199,26 +199,21 @@ h1:before, .anchor:before {
 }
 .blog-card__arrow { color: #9aa0a6; font-size: 3rem; line-height: 1; margin-left: 12px; }
 
-/* Blog post page - full width when no sidebar */
-.page {
-    width: 100%;
-    max-width: 100%;
-}
-
-.page .blog-post {
+/* Blog post page - full width when no sidebar (only for blog posts) */
+.blog-post {
     max-width: 900px;
     margin: 0 auto;
     padding: 0 2rem;
-}
-
-/* References list styling */
-.references-list {
-    line-height: 1.8;
     
-    a {
-        text-decoration: none;
-        &:hover {
-            text-decoration: underline;
+    /* References list styling */
+    .references-list {
+        line-height: 1.8;
+        
+        a {
+            text-decoration: none;
+            &:hover {
+                text-decoration: underline;
+            }
         }
     }
 }
