@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 😎 About Me
+# 🎓 About Me
 I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. in Electrical Engineering and Automation (expected Jun 2026). I'm now a research intern with the UIUC Ulab & OpenManus Team, advised by Prof. Jiaxuan You. My work focuses on multi-agent systems, GUI agent, and agentic reinforcement learning.
 
 <span style="color: red;">I am actively seeking PhD/Research Assistant positions or collaboration opportunities in multimodal agents and world models. I would be truly honored and excited to connect with anyone interested in these areas—please don't hesitate to reach out!</span>
