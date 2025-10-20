@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🎓 About Me
-I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. in Electrical Engineering and Automation (expected Jun 2026). I'm now a research intern with the UIUC Ulab & OpenManus Team, advised by Prof. Jiaxuan You. My work focuses on multi-agent systems, GUI agent, and agentic reinforcement learning.
+I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. in Electrical Engineering and Automation (expected Jun 2026). Currently, I serve as a research intern with the [UIUC Ulab](https://ulab-uiuc.github.io/) & OpenManus Team under the guidance of Prof. [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/), where my research focuses on multi-agent systems, GUI agents, and agentic reinforcement learning. Prior to this, I completed a research internship at [SJTU CMIC](https://cmic.sjtu.edu.cn/CN/Default.aspx), advised by Prof. [Siheng Chen](https://siheng-chen.github.io/).
 
 <span style="color: red;">I am actively seeking PhD/Research Assistant positions or collaboration opportunities in multimodal agents and world models. I would be truly honored and excited to connect with anyone interested in these areas—please don't hesitate to reach out!</span>
 
@@ -66,14 +66,14 @@ My current research centers around the following domains:
 </div>
 
 # 🎖 Honors and Awards
-- 2025 — Challenge Cup (Training Optimization and Inference Acceleration for Reasoning LLMs): Second place nationwide. Collaborated with Prof. Erhu Feng and Prof. Muning Wen; developed GRPO/PPO training and deployment pipelines based on veRL; led inference optimization including speculative decoding and heterogeneous deployment across CPU and NPU.
+- **First Place Nationwide (1/35) — Challenge Cup 2025** (Training Optimization and Inference Acceleration for Reasoning LLMs). Led inference optimization (speculative decoding, CPU/NPU deployment) and GRPO/PPO pipeline development.
 
 # 📖 Educations
 - 2022.09 — 2026.06 (expected), B.Eng. in Electric Power Engineering and Automation, Shanghai Jiao Tong University (SJTU), Shanghai, China.
 
 # 💻 Internships
-- 2025.05 — Present, UIUC Ulab & OpenManus Team, Research Intern, Urbana, IL. Advisor: Prof. Jiaxuan You. Focus: multi-agent protocols, GUI agent and embodied navigation.
-- 2024.05 — 2025.05, SJTU CMIC, Research Intern, Shanghai. Advisor: Prof. Siheng Chen. Focus: multi-agent system evaluation and coordination strategies.
+- 2025.05 — Present, UIUC Ulab & OpenManus Team, Research Intern, Urbana, IL. Advisor: Prof. [Jiaxuan You](https://cs.stanford.edu/~jiaxuan/). Focus: multi-agent protocols, GUI agent and embodied navigation.
+- 2024.05 — 2025.05, SJTU CMIC, Research Intern, Shanghai. Advisor: Prof. [Siheng Chen](https://siheng-chen.github.io/). Focus: multi-agent system evaluation and coordination strategies.
 
 # 📝 Blogs
 *Just so you know, my posts are pretty much just my study notes. I'd love to hear your thoughts and discuss!*
