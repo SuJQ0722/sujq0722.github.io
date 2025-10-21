@@ -32,6 +32,7 @@ My current research centers around the following domains:
 - Multimodal Agentic Learning and Reasoning
 - World Models For Multimodal Agents
 - Multi-Agent System Design
+
 and many other topics like tool-integrated reasoning, spatial reasoning...
 
 # 🔥 News
