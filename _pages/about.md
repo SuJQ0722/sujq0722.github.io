@@ -29,10 +29,10 @@ I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. 
 
 ## Research interests
 My current research centers around the following domains:
-- Multimodal Agentic Reinforcement Learning
+- Multimodal Agentic Learning and Reasoning
 - World Models For Multimodal Agents
 - Multi-Agent System Design
-
+and many other topics like tool-integrated reasoning, spatial reasoning...
 
 # 🔥 News
 - 2025.06 — One paper is accepted by ICCV 2025.
