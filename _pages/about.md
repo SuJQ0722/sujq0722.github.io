@@ -23,10 +23,6 @@ I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. 
 
 <span style="color: red;">I am actively seeking PhD/Research Assistant positions or collaboration opportunities in multimodal agents and world models. I would be truly honored and excited to connect with anyone interested in these areas—please don't hesitate to reach out!</span>
 
-## Language Proficiency
-- **English**: TOEFL 105 \| CET-6 617
-- **Chinese**: Native
-
 ## Research interests
 My current research centers around the following domains:
 - Multimodal Agentic Learning and Reasoning
