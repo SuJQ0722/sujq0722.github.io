@@ -43,7 +43,7 @@ and many other topics like tool-integrated reasoning, spatial reasoning...
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Submission</div><img src='images/protocolbench_figure.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Which LLM Multi-Agent Protocol to Choose?](#), Hongyi Du\*, **Jiaqi Su\***, Jisen Li\*, Lijie Ding, Yingxuan Yang, Peixuan Han, Xiangru Tang, Kunlun Zhu, Jiaxuan You
+[Which LLM Multi-Agent Protocol to Choose?](https://arxiv.org/abs/2510.17149), Hongyi Du\*, **Jiaqi Su\***, Jisen Li\*, Lijie Ding, Yingxuan Yang, Peixuan Han, Xiangru Tang, Kunlun Zhu, Jiaxuan You
 
 - Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/MultiagentBench/Multiagent-Protocol?style=social&label=Code+Stars)](https://github.com/MultiagentBench/Multiagent-Protocol)
 </div>
