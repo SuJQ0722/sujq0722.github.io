@@ -46,7 +46,7 @@ My current research centers around the following domains:
 
 [Which LLM Multi-Agent Protocol to Choose?](#)
 
-- Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/MultiagentBench/Multiagent-Protocol?style=social&label=Code+Stars)](https://github.com/MultiagentBench/Multiagent-Protocol)
+- Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/ulab-uiuc/AgentProtocols?style=social&label=Code+Stars)](https://github.com/ulab-uiuc/AgentProtocols)
 </div>
 </div>
 
