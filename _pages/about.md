@@ -45,7 +45,7 @@ and many other topics like tool-integrated reasoning, spatial reasoning...
 
 [Which LLM Multi-Agent Protocol to Choose?](https://arxiv.org/abs/2510.17149), Hongyi Du\*, **Jiaqi Su\***, Jisen Li\*, Lijie Ding, Yingxuan Yang, Peixuan Han, Xiangru Tang, Kunlun Zhu, Jiaxuan You
 
-- Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/MultiagentBench/Multiagent-Protocol?style=social&label=Code+Stars)](https://github.com/MultiagentBench/Multiagent-Protocol)
+- Designed four scenarios to fairly compare A2A, ACP, ANP, and Agora and proposed a meta-protocol with an intelligent router for dynamic selection per scenario. [![](https://img.shields.io/github/stars/ulab-uiuc/AgentProtocols?style=social&label=Code+Stars)](https://github.com/ulab-uiuc/AgentProtocols)
 </div>
 </div>
 
