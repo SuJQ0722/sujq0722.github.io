@@ -25,7 +25,7 @@ I'm an undergraduate at Shanghai Jiao Tong University (SJTU), pursuing a B.Eng. 
 
 ## Research interests
 My current research centers around the following domains:
-- Multimodal Agentic Learning and Reasoning
+- Multimodal Agent Memory
 - World Models For Multimodal Agents
 - Multi-Agent System Design
 
